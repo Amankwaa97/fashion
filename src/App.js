@@ -10,6 +10,7 @@ function App() {
       <div>
         <li>banana</li>
         <li>pineapple</li>
+        <li>grapes</li>
       </div>
     </div>
     </div>
